@@ -1,3 +1,3 @@
 Simple Admin Bootstrap Template
 ---------
-A rtl bootstrap admin boilerplate for small project
+An RTL bootstrap admin boilerplate for a small project
