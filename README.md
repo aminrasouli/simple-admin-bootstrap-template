@@ -1,2 +1,3 @@
-#Simple Admin Bootstrap Template
+Simple Admin Bootstrap Template
+---------
 A rtl bootstrap admin boilerplate for small project
